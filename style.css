@@ -1,0 +1,28 @@
+body {
+    background-color:rgb(242, 200, 255);
+}
+#heading {
+    width:100%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#start, #numberOfObjects, #start {
+    font-size:18px;
+    background-color:rgb(200, 136, 242);
+    border-radius:10px;
+    border-width:1.5;
+}
+.copyrightFooter {
+    position:fixed;
+    color:rgb(195, 0, 255);
+    bottom:0;
+    width:100%;
+    background-color:rgb(231, 173, 250);
+    line-height:2;
+    text-align:center;
+}
+canvas {
+    border:2px solid white;
+    border-radius:10px;
+    margin-top:130px;
+    box-shadow:5px 5px 5px rgb(237, 218, 255);
+}
